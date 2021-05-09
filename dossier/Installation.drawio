@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T12:13:10.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="THBr5BstkY3HNDCRK_v7" version="14.6.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-09T14:15:20.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="n9of4mv43QPXov3W4oYT" version="14.6.11" type="github" pages="2">
   <diagram id="UXfrIu6Z59jdAvUMQT7r" name="Page-1">
     <mxGraphModel dx="2062" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cGXCu48kdPBJJC6QDIQE-3" value="PC Portable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1090" width="320" height="220" as="geometry" />
+          <mxGeometry x="1730" y="895" width="320" height="220" as="geometry" />
         </mxCell>
         <mxCell id="pXX_yLQLKW2jYPXio9gn-1" value="Clavier" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="739" y="1510" width="430" height="130" as="geometry" />
@@ -167,8 +167,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="153" y="880" />
-              <mxPoint x="770" y="880" />
-              <mxPoint x="770" y="1145" />
+              <mxPoint x="1720" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
