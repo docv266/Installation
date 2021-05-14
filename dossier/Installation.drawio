@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T15:21:47.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JMhGR21LwW_obVYE0dO9" version="14.6.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-14T10:08:42.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SJiKFsYH5c5ARwPCBex6" version="14.6.11" type="github" pages="2">
   <diagram id="UXfrIu6Z59jdAvUMQT7r" name="Page-1">
     <mxGraphModel dx="2062" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -192,12 +192,12 @@
         <mxCell id="GpGeFZStsm4Ask86HLHJ-11" value="Imprimante" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="170" width="220" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="uUtBKLI0styad6Ih3qCc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="GpGeFZStsm4Ask86HLHJ-11" target="pXX_yLQLKW2jYPXio9gn-11" edge="1">
+        <mxCell id="uUtBKLI0styad6Ih3qCc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="GpGeFZStsm4Ask86HLHJ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="335" />
-              <mxPoint x="90" y="1030" />
+              <mxPoint x="70" y="335" />
             </Array>
+            <mxPoint x="70" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -322,7 +322,7 @@
         <mxCell id="b7xJHGfjTkhw7rVAl_uh-7" value="Spot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="7L9wM0azpL0JzGneTroC-1" vertex="1">
           <mxGeometry x="368.53" y="690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KU1yqDU8sRYaeMXn3pXe-0" value="Prise Ethernet" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7L9wM0azpL0JzGneTroC-1">
+        <mxCell id="KU1yqDU8sRYaeMXn3pXe-0" value="Prise Ethernet" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="7L9wM0azpL0JzGneTroC-1" vertex="1">
           <mxGeometry x="100" y="290" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
